@@ -1,0 +1,14 @@
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\bin\Debug\WPF_ListBox_1.exe.config
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\bin\Debug\WPF_ListBox_1.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\bin\Debug\WPF_ListBox_1.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\WPF_ListBox_1.csproj.AssemblyReference.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\MainWindow.g.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\App.g.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\WPF_ListBox_1_MarkupCompile.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\MainWindow.baml
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\WPF_ListBox_1.g.resources
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\WPF_ListBox_1.Properties.Resources.resources
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\WPF_ListBox_1.csproj.GenerateResource.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\WPF_ListBox_1.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\WPF_ListBox_1.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\WPF\WPF_ListBox_1\obj\Debug\WPF_ListBox_1.pdb
